@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamit as st
 
 df = pd.read_csv("global_street_food.csv")
-write (df)
+df
 import pandas as pd #nao precisava importar de novo 
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
